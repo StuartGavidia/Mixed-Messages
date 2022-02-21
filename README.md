@@ -6,7 +6,7 @@ The program will randomly output a message that consists of an adjective, verb, 
 
 ## How to Use
 Have node installed on your computer. You can clone this repository onto a text-editor like VSCode.
-Then use node to run the Javascript file message.html.
+Then use node to run the Javascript file message.js.
 
 ## Collaborators
 Stuart Gavidia
